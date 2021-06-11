@@ -8,6 +8,12 @@ class About extends Component {
                 <div className="about">                
                 <p>Je suis LY Jérémy, développeur web en formation à la Web@cademie by Epitech pour une durée de 2 ans</p>
                 <p>Actuellement en recherche d'un contrat en alternance d'une durée de 14 mois allant du 27 septembre 2021 au 14 novembre 2022, au format de 3 semaines en entreprise et 1 semaine à l'école</p>
+                <div>
+                <a href="JEREMY_LY.pdf" target="_blank">CV EN PDF</a>
+                </div>
+                <div>
+                <a href="JEREMY_LY.pdf" download>TÉLECHARGER MON CV</a>
+                </div>
                 <br></br><br></br>
                 </div>
             </div>
